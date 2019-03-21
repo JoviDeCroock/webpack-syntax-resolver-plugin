@@ -1,2 +1,3 @@
-# WebpackModernResolutionPlugin
-Nothing to see here.... Yet!
+# Webpack Syntax Resolver Plugin
+
+
