@@ -1,0 +1,30 @@
+{
+  "name": "webpack-syntax-resolver-plugin",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "Automates the integration of ES6 libraries in your bundle.",
+  "author": "Jovi De Croock <decroockjovi@gmail.com> (https://github.com/jovidecroock)",
+  "main": "src/index.js",
+  "files": ["src/index.js"],
+  "scripts": {},
+  "devDependencies": {
+    "webpack": "^4.20.2"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "webpack": ">=4.0.0"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "syntax",
+    "esmodules",
+    "resolver"
+  ],
+  "bugs": "https://github.com/jovidecroock/webpack-syntax-resolver-plugin/issues",
+  "homepage": "https://github.com/jovidecroock/webpack-syntax-resolver-plugin",
+  "repository": "https://github.com/jovidecroock/webpack-syntax-resolver-plugin.git",
+  "engines": {
+    "node": ">=6.9"
+  }
+}
