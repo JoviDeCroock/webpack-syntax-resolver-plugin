@@ -24,7 +24,7 @@ const syntaxResolverPlugin = require('webpack-syntax-resolver-plugin');
 {
   ...webpackConfig,
   resolve: {
-    plugins: [new ModernResolutionPlugin()],
+    plugins: [new syntaxResolverPlugin()],
   },
 }
 
