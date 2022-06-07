@@ -4,6 +4,9 @@
 
 ## Why
 
+> Do not use this, this was a reaction to a proposal made for sytnax fields on the package json field which allowed package authors to specify
+> newer versions of the ECMA spec for their distributed files
+
 This automates resolving the plugin on a more modern syntax field, this field
 is derived from the package.json.
 
@@ -39,8 +42,6 @@ The rest will be handled for you!
 ## Example
 
 https://github.com/JoviDeCroock/POC-ModularLegacyBuild
-
-Only one package at this time supports this but there are more to come [hooked-form](https://github.com/JoviDeCroock/hooked-form)
 
 ## Installation
 
