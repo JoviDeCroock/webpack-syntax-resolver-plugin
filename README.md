@@ -4,7 +4,7 @@
 
 ## Why
 
-> Do not use this, this was a reaction to a proposal made for sytnax fields on the package json field which allowed package authors to specify
+> Do not use this, this was a reaction to a proposal made for syntax fields on the package json field which allowed package authors to specify
 > newer versions of the ECMA spec for their distributed files
 
 This automates resolving the plugin on a more modern syntax field, this field
